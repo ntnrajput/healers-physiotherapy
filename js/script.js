@@ -6,6 +6,6 @@ $('.home-slider').owlCarousel({
   dots: true,
   // Add these:
   autoplay: true,
-  autoplayTimeout: 5000, // 5 seconds delay between slides
+  autoplayTimeout: 1000, // 5 seconds delay between slides
   autoplayHoverPause: true // pause on mouse hover
 });
